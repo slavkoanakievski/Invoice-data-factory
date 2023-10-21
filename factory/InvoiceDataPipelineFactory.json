@@ -1,0 +1,9 @@
+{
+	"name": "InvoiceDataPipelineFactory",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e74bbac5-128c-4994-b6c8-0ba8e424586b",
+		"tenantId": "f0cac47b-e2b3-4e1b-a52f-487d2d996288"
+	}
+}
